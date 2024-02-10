@@ -17,3 +17,6 @@ The Items will be in a folder called output
 Usage: python gme.py build [filename.gme]
 
 note that you have to use output folder so don't modify the output folder
+
+
+## Made by Epiczhul
